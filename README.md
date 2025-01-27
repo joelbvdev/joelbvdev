@@ -2,7 +2,7 @@
 Joel Vega</a></h1>
 
 ### About me🧑:
-I am a Systems student and a frontend developer at Coderhouse.<br/>
+I am a Systems student and a Frontend Developer at Coderhouse.<br/>
 I am interested in learning backend and would love to increase my knowledge in more technologies.
 
 <img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
