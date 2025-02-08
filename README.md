@@ -11,7 +11,7 @@ I am interested in learning backend and would love to increase my knowledge in m
 
 - 🌱 I am currently in the race **Sistems Development in UNLu (Bs As, Argentina)**
 
-- 📫 How to reach me **comingsoon**
+- 📫 How to reach me **joelvegadevcontact@gmail.com**
 
 <h4> Languages </h4>
 <span>
