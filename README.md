@@ -7,9 +7,9 @@ I am interested in learning backend and would love to increase my knowledge in m
 
 <img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
-- 📚 I am currently studying at Coderhouse (Developer Frontend)
+- 📚 I am currently studying at **Developer Frontend (Coderhouse)**
 
-- 🌱 I am currently in the race **Sistems Development in UNLu (Bs As, Argentina)**
+- 🌱 I am currently in the race **Sistems Development (in UNLu, Bs As, Argentina)**
 
 - 📫 How to reach me **joelvegadevcontact@gmail.com**
 
