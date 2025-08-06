@@ -2,16 +2,16 @@
 Joel Vega</a></h1>
 
 ### About me🧑:
-I am a Systems student and a Frontend Developer at Coderhouse.<br/>
+I am a Data Science student and a Frontend Developer at Coderhouse.<br/>
 I am interested in learning backend and would love to increase my knowledge in more technologies.
 
 <img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
-- 📚 I am currently studying at **Developer Frontend (Coderhouse)**
+- **
 
-- 🌱 I am currently in the race **Data Science (in UNLu, Bs As, Argentina)**
+- 🌱 I am currently in the studying **Data Science (in UNLu, Bs As, Argentina)**
 
-- 📫 How to reach me **joelvegadevcontact@gmail.com**
+- 📫 How to reach me **vegajoel012@gmail.com**
 
 <h4> Languages </h4>
 <span>
