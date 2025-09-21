@@ -7,21 +7,28 @@ I am interested in learning backend and would love to increase my knowledge in m
 
 <img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
-- **
-
 - 🌱 I am currently in the studying **Data Science (in UNLu, Bs As, Argentina)**
 
 - 📫 How to reach me **vegajoel012@gmail.com**
 
 <h4> Languages </h4>
 <span>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 </span>
 
-<h4> Frameworks </h4>
+<h4> 🏢 Office </h4>
 <span>
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src= "https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+</span>
+
+<h4> 📂 Cloud Storage </h4>
+<span>
+    <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)">
+</span>
+
+<h4> BROWSER </h4>
+<span>
+    <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white">
 </span>
 
 <div style="display:grid;align-items:center;justify-content:center">
