@@ -9,8 +9,6 @@ I am interested in learning Data and Cybersecurity and would love to increase my
 
 - 🌱 I am currently in the studying **Data Science (in UNLu, Bs As, Argentina)**
 
-- 📫 How to reach me **vegajoel012@gmail.com**
-
 <h4> Languages </h4>
 <span>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
