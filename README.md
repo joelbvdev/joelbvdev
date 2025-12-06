@@ -3,7 +3,7 @@ Joel Vega</a></h1>
 
 ### About me🧑:
 I am a Data Science student and a Frontend Developer at Coderhouse.<br/>
-I am interested in learning Data and Cybersecurity and would love to increase my knowledge in more technologies.
+I am interested in learning Data and Programming and would love to increase my knowledge in more technologies.
 
 <img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
