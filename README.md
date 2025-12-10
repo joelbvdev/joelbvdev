@@ -8,6 +8,12 @@ I am interested in learning Data and Programming and would love to increase my k
 <img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
 - 🌱 I am currently in the studying **Data Science (in UNLu, Bs As, Argentina)**
+- ⚙️ I’m currently learning Python & JavaScript
+
+💻I have projects uploaded here to Github, as well as websites and logic projects.
+You can find out more about my experience on my LinkedIn profile.
+
+My Portfolio: https://portfolio-joelvegadev.netlify.app/
 
 <h4> Languages </h4>
 <span>
@@ -57,6 +63,10 @@ I am interested in learning Data and Programming and would love to increase my k
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
 </span>
 
-<div style="display:grid;align-items:center;justify-content:center">
-  <img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelbvdev&layout=compact&theme=gotham&langs_count=8"/>
+<div align="center" style="border: px solid #000000;>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=900&height=110&lines=Computer+Science+Student;Android+Developer;Compititive+Programmer;ML+Enthusiast;Web+Designer;web+developer;Growing+Ethical+Hacker)](https://git.io/typing-svg)
 </div>
+<p align="center" >
+ <img  height="280rem" alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
+ </p>
