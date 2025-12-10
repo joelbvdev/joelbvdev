@@ -14,6 +14,7 @@ I am interested in learning Data and Programming and would love to increase my k
 You can find out more about my experience on my LinkedIn profile.
 
 My Portfolio: https://portfolio-joelvegadev.netlify.app/
+My linkedin: https://www.linkedin.com/in/joelbv10/
 
 <h4> Languages </h4>
 <span>
