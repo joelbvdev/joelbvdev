@@ -1,70 +1,67 @@
-<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
-Joel Vega</a></h1>
+<h1 align="left">Hi! 👋</h1>
 
-### About me🧑:
-I am a Data Science student and a Frontend Developer at Coderhouse.<br/>
-I am interested in learning Data and Programming and would love to increase my knowledge in more technologies.
+###
 
-<img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
+<p align="left">My name is Joel and I'm a Student of Data Science at University from Buenos Aires, Argentina.</p>
 
-- 🌱 I am currently in the studying **Data Science (in UNLu, Bs As, Argentina)**
-- ⚙️ I’m currently learning Python & JavaScript
+###
 
-💻I have projects uploaded here to Github, as well as websites and logic projects.
-You can find out more about my experience on my LinkedIn profile.
+<h2 align="left">About me</h2>
 
-My Portfolio: https://portfolio-joelvegadev.netlify.app/
-My linkedin: https://www.linkedin.com/in/joelbv10/
+###
 
-<h4> Languages </h4>
-<span>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-</span>
-<span>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-</span>
-<span>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-</span>
-<span>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-</span>
+<p align="left">✨ Creating bugs since ... December 2024<br>📚 I'm currently learning: Python and JS<br>🎯 Goals: Get a Job or Project Freelance<br><br>MY PORTFOLIO: https://portfolio-joelvegadev.netlify.app/</p>
 
-<h4> Tools </h4>
-<span>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-</span>
+###
 
-<h4> 🏢 Office </h4>
-<span>
-  <img src= "https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-</span>
+<h2 align="left">I code with</h2>
 
-<h4> 📂 Cloud Storage </h4>
-<span>
-    <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)">
-</span>
+###
 
-<h4> BROWSER </h4>
-<span>
-    <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white">
-</span>
-
-<h4> DESIGN </h4>
-<span>
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
-</span>
-<span>
-  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white">
-</span>
-<span>
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
-</span>
-
-<div align="center" style="border: px solid #000000;>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=900&height=110&lines=Computer+Science+Student;Android+Developer;Compititive+Programmer;ML+Enthusiast;Web+Designer;web+developer;Growing+Ethical+Hacker)](https://git.io/typing-svg)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 </div>
-<p align="center" >
- <img  height="280rem" alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
- </p>
+
+###
+
+<div align="left">
+</div>
+
+###
+
+<h2 align="left">Social</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/joelbv10/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joelbvdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joelbvdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=joelbvdev.joelbvdev&"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/joelbvdev/joelbvdev/output/snake.svg" alt="Snake animation" />
+
+###
