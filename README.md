@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ... December 2024<br>📚 I'm currently learning: Python and JS<br>🎯 Goals: Get a Job or Project Freelance<br><br>MY PORTFOLIO: https://portfolio-joelvegadev.vercel.app</p>
+<p align="left">✨ Creating bugs since ... December 2024<br>📚 I'm currently learning: Python, JavaScript, C<br>🎯 Goals: Get a Job or Project Freelance<br><br>MY PORTFOLIO: https://portfolio-joelvegadev.vercel.app</p>
 
 ###
 
