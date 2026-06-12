@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Joel and I'm a Student of Data Science at University from Buenos Aires, Argentina.</p>
+<p align="left">Hi! I'm Joel Vega, a Data Science student and Junior Developer from Buenos Aires, Argentina.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ... December 2024<br>📚 I'm currently learning: Python, JavaScript, C<br>🎯 Goals: Get a Job or Project Freelance<br><br>MY PORTFOLIO: https://portfolio-joelvegadev.vercel.app</p>
+<p align="left">✨ Building projects since 2024<br>📚 I'm currently learning: Python, JavaScript, C<br>🎯 Interested in Backend Development, Web Development and IT Support.<br><br>MY PORTFOLIO: https://portfolio-joelvegadev.vercel.app</p>
 
 ###
 
