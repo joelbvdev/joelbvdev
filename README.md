@@ -1,67 +1,81 @@
-<h1 align="left">Hi! 👋</h1>
+<h1 align="left">Hi! 👋 I'm Joel Vega</h1>
 
-###
+<p align="left">
+Junior Developer and Data Science Student from Buenos Aires, Argentina 🇦🇷
+</p>
 
-<p align="left">Hi! I'm Joel Vega, a Data Science student and Junior Developer from Buenos Aires, Argentina.</p>
+---
 
-###
+## 🚀 About Me
 
-<h2 align="left">About me</h2>
+- 🎓 Data Science Student at Universidad Nacional de Luján
+- 💻 Junior Developer focused on Python and JavaScript
+- 🔧 Experience in IT Support, hardware and software troubleshooting
+- 📚 Currently learning Python, JavaScript and C
+- 🎯 Interested in Backend Development, Web Development and IT Support
+- 🌱 Always building projects and improving my skills
 
-###
+### 🌐 Portfolio
 
-<p align="left">✨ Building projects since 2024<br>📚 I'm currently learning: Python, JavaScript, C<br>🎯 Interested in Backend Development, Web Development and IT Support.<br><br>MY PORTFOLIO: https://portfolio-joelvegadev.vercel.app</p>
+<a href="https://portfolio-joelvegadev.vercel.app">
+  portfolio-joelvegadev.vercel.app
+</a>
 
-###
+---
 
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-</div>
-
-###
+## 🛠️ Technologies
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
 </div>
 
-###
+---
 
-<h2 align="left">Social</h2>
+## 📌 Featured Projects
 
-###
+### 🔐 Login System (Python)
+Authentication system with CSV data persistence.
+
+### 🛒 Ecommerce Cart
+Final JavaScript project with dynamic cart functionality.
+
+### 🌐 Responsive Landing Pages
+Modern and responsive websites built with HTML, CSS and JavaScript.
+
+---
+
+## 🤝 Connect With Me
 
 <div align="left">
   <a href="https://www.linkedin.com/in/joelbv10/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
 </div>
 
-###
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joelbvdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joelbvdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=joelbvdev&show_icons=true&theme=dracula" height="150" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joelbvdev&layout=compact&theme=dracula" height="150" />
 </div>
 
-###
+---
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=joelbvdev.joelbvdev&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=joelbvdev.joelbvdev" />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/joelbvdev/joelbvdev/output/snake.svg" alt="Snake animation" />
-
-###
